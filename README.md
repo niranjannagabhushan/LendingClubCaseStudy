@@ -41,5 +41,5 @@ Applicant has not paid the instalments in due time for a long period of time, i.
 - Datetime
 
 ## Contributors
-- Aarushi Gupta
-- Ankit Sharma
+- Niranjan N
+- Sachin Sutar
