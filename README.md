@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 A Case Study on Peer-to-Peer Money Lending Company "Lending Club'
 
 ## Lending Club Case Study
