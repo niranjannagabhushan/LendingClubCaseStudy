@@ -37,9 +37,8 @@ Applicant has not paid the instalments in due time for a long period of time, i.
 - Pandas
 - Matplotlib
 - Seaborn
-- FilterWarnings
 - Datetime
 
 ## Contributors
 - Niranjan N
-- Sachin Sutar
+
